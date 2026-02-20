@@ -1,0 +1,5 @@
+{
+  "name": "DreamCanvas AI",
+  "description": "A high-performance image generation studio powered by Google Gemini, featuring real-time prompt engineering, multiple aspect ratios, and professional-grade output.",
+  "requestFramePermissions": []
+}
